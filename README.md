@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NITIN</h1>
-<h3 align="center">I'm a passionate learning DevOps enthusiast from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm LEENA RAUT</h1>
+<h3 align="center">Learning DevOps.</h3>
 
 
 ## 🙋‍♂️ **About Me:**
@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **nitingouda03@gmail.com**
+- 📫 How to reach me **leenasraut@acpce.ac.in**
 
-- ⚡ Fun fact **I love reading phylosophical books and also to Travel & Eat.**
+- ⚡ Fun fact **I love reading books and also to Travel & Eat.**
 
 ## 🚀 **Languages and Tools:**
 
@@ -33,8 +33,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/shaggyyy2002/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shaggyyy2002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/LeenaRaut13/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Leena's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeenaRaut13&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -50,7 +50,7 @@
 
 ## **Connect with me:**
 <p align="left">
-<a href = "https://www.linkedin.com/in/nitin-gouda-b1577613b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href = "https://dev.to/shaggyyy2002"><img src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/56/000000/external-dev-community-where-programmers-share-ideas-and-help-each-other-grow-logo-fresh-tal-revivo.png"/></a>
-<a href = "https://www.instagram.com/shaggyyyy.____/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/leena-raut-b2068b220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/___leena_raut___/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://discord.gg/ZH35hEEg"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
 </p>
