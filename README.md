@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"  /></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm LEENA RAUT</h1>
 <h3 align="center">Learning DevOps.</h3>
